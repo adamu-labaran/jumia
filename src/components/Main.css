@@ -1,0 +1,11 @@
+.welcome-banner {
+  display: flex;
+}
+.clearance-sales,
+.top-selling,
+.flash-sales,
+.magic-deals-banner {
+  display: flex;
+  flex-wrap: wrap;
+}
+/* #6ac1d5 */
